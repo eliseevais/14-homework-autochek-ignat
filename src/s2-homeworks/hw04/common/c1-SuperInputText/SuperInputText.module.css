@@ -2,19 +2,44 @@
 }
 
 .input {
+  min-width: 372px;
+  min-height: 36px;
+  border-radius: 5px;
+  border: 1px solid #D1D1D1;
+
+  padding: 5px;
 }
 
 .inputWrapper {
+  display: flex;
+  flex-direction: column-reverse;
 }
 
 .superInput {
+
 }
 
 .errorInput {
+
+  /*.error {*/
+  /*  display: none;*/
+  /*}*/
 }
 
 .errorInput:focus {
+  outline: 0;
+  border: 1px solid #CC1439;
+
+  /*.error {*/
+  /*  display: block;*/
+  /*}*/
 }
 
 .error {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  color: #CC1439;
+  margin-bottom: 4px;
 }
