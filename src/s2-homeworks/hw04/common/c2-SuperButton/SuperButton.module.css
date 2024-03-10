@@ -4,6 +4,7 @@
   border-radius: 3px;
   border: none;
   padding: 5px;
+  margin-right: 24px;
 
   font-family: 'Montserrat', sans-serif;
   text-transform: capitalize;
@@ -12,6 +13,7 @@
   line-height: 20px;
   color: #FFFFFF;
   gap: 10px;
+
 }
 
 .disabled {
