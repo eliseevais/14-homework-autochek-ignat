@@ -1,10 +1,24 @@
 .buttonsContainer {
+  margin-top: 20px;
 }
 
 .clock {
+  min-height: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .watch {
+  margin-bottom: 8px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  cursor: pointer;
 }
 
 .watch strong {
