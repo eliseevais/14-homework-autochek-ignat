@@ -1,3 +1,8 @@
 .loader {
     /*свг и/или анимация*/
+  width: fit-content;
+  height: 150px;
+}
+.loader img{
+  width: 200px;
 }
