@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/14-homework-autochek-ignat/static/css/main.01529deb.css",
-    "main.js": "/14-homework-autochek-ignat/static/js/main.34871ce8.js",
+    "main.css": "/14-homework-autochek-ignat/static/css/main.c82d4073.css",
+    "main.js": "/14-homework-autochek-ignat/static/js/main.2d305cfd.js",
     "static/js/787.66cb4309.chunk.js": "/14-homework-autochek-ignat/static/js/787.66cb4309.chunk.js",
     "static/media/eminem-fotor-20240103222337.png": "/14-homework-autochek-ignat/static/media/eminem-fotor-20240103222337.c8e02d3eea882b6460b2.png",
     "static/media/dre-fotor-20240103222244.png": "/14-homework-autochek-ignat/static/media/dre-fotor-20240103222244.7ac08c05aec99f68c3b7.png",
@@ -10,17 +10,18 @@
     "static/media/500.svg": "/14-homework-autochek-ignat/static/media/500.adbc5f265f6f3c1fb9c5633ffe365afa.svg",
     "static/media/400.svg": "/14-homework-autochek-ignat/static/media/400.8baa1b795048b6fa13ff8d30800aa1b1.svg",
     "static/media/404.svg": "/14-homework-autochek-ignat/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/noneIcon.png": "/14-homework-autochek-ignat/static/media/noneIcon.454b1769bbe982860272.png",
     "static/media/closeOutline.svg": "/14-homework-autochek-ignat/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/editIcon.svg": "/14-homework-autochek-ignat/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
     "static/media/checked.svg": "/14-homework-autochek-ignat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/14-homework-autochek-ignat/index.html",
     "static/media/burger.svg": "/14-homework-autochek-ignat/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.01529deb.css.map": "/14-homework-autochek-ignat/static/css/main.01529deb.css.map",
-    "main.34871ce8.js.map": "/14-homework-autochek-ignat/static/js/main.34871ce8.js.map",
+    "main.c82d4073.css.map": "/14-homework-autochek-ignat/static/css/main.c82d4073.css.map",
+    "main.2d305cfd.js.map": "/14-homework-autochek-ignat/static/js/main.2d305cfd.js.map",
     "787.66cb4309.chunk.js.map": "/14-homework-autochek-ignat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01529deb.css",
-    "static/js/main.34871ce8.js"
+    "static/css/main.c82d4073.css",
+    "static/js/main.2d305cfd.js"
   ]
 }
